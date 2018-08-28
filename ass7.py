@@ -97,7 +97,8 @@ b.animal_attribute()
 print()
 
 #Que6-->Determine the output
-#INVALID SYNTAX
+'''A B \
+    A B'''
 print()
 
 #Que7-->Create class Shape.Initialize with length and breadth create method area.create class rect and sqr which inherits shape and access method area.
